@@ -1,0 +1,181 @@
+#margintop
+{
+    margin-top: 5vh;
+}
+.adsPost
+{
+    width: 94vw;
+    margin-left: 2vw;
+    height: 30vh;
+    margin-top: 2vh;
+    position: relative;
+    border-top: 1px solid #28546C;
+    border-bottom: 4px solid #28546C;
+    padding-right: 2vw;
+    border-radius: 5%;
+     
+}
+.adsContent
+{
+    z-index: 500;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 30%;
+    padding: 3% 3% 1% 3%;
+    color: aliceblue;
+    background-color: rgba(0,0,0,0.5);
+}
+.adsPost img
+{
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 0;
+    border-radius: 5.5%;
+}
+.adsContentTitle
+{
+    width: 100%;
+    font-size: 1.2rem;
+    position: relative;
+}
+
+
+#ogloszenia
+{
+    background-color: #adadad;
+}
+
+#olxLinki
+{
+    font-size: 15px;
+}
+
+#olxLinki span
+{
+    font-size: 50px;
+    color: #fff;
+}
+#olxSpanTitle
+{
+    font-size: 20px;
+}
+#widget_5cb38dea9cbeb
+{
+    width: 100%;
+}
+#widget_5cb38dea9cbeb > div
+{
+    width: 25vw;
+    height: 15vh;
+    float: left;
+    background-color: burlywood;
+}
+.darkImage
+{
+    top:0;
+    bottom: 0;
+    left: 0;
+    right: 0; 
+    position: absolute;
+    background-color: rgba(73, 64, 64, 0.9);
+    display: none;
+    color: #FFF;
+    font-size: 18px;
+    padding-top: 5vh;
+    padding-right: 13vw;
+    padding-left: 13vw;
+    overflow: scroll;
+    border-radius: 15px;
+}
+.titleAttractions
+{
+    background-color: #28546C;
+    color: #AA9239;
+    text-align: center;
+    margin: 0vh 2.6vw;
+    padding: 2vh 0vw;
+    border-radius: 5px;
+    font-size: 2rem;
+}
+#categories
+{
+    width: 100%;
+    background-color: #AA9239;
+}
+
+a:link
+{
+    color: #AA9239;
+}
+
+a:visited
+{
+    color: #AA9239;
+}
+a:hover
+{
+    color: #28546C;
+}
+#socBtns
+{
+    background-color: rgba(170, 146, 57,0.9);
+    width: 92%;
+    height: 12vh;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+    border-radius: 10px;
+}
+.socialButton
+{
+    float: left;
+    width: 33%;
+    height: 10vh;
+    margin-top: 1vh;
+    text-align: center;
+    padding-top: 2vh;
+    color: #FFF;
+}
+
+#facebookDiv
+{
+    display: none;
+}
+#twitterDiv
+{
+    display: none;
+}
+#tarnowskaDiv
+{
+    margin-top: 1vh;
+    display: "block";
+}
+#facebookIcon
+{
+    font-size: 3rem;
+    color: #000000;
+}
+#twitterIcon
+{
+    font-size: 3rem;
+    color: #000000;
+}
+#tvIcon
+{
+    font-size: 3rem;
+    color: #000;
+}
+#tarnowskaLogo
+{
+    width: 90%;
+    height: 6vh;
+    margin-top: 2vh;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}

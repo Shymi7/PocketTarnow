@@ -1,0 +1,103 @@
+#attractionContainer
+{
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+}
+#attractionButtons
+{
+    margin-top: 7vh;
+    height: 10vh;
+    width: 50%;
+    float: left;
+}
+.attractionButton
+{
+    background-color: #28546C;
+    color:white;
+    padding: 1vh 1vw;
+    width: 35%;
+    margin: 1% 2.5%;
+    font-weight: 900;
+    text-align: center;
+}
+.buttonLeft
+{
+    float: left;
+}
+.buttonRight
+{
+    float: right;
+}
+#attractionFreeDay
+{
+    background-color: #AA9239;
+    margin-top: 8vh;
+    height: 10vh;
+    width: 50%;
+    float: right;
+}
+#attractionFreeDayArea
+{
+    text-align: center;
+    padding: 1vw 1vh;
+    color: #28546C;
+    font-weight: 900;
+}
+.attractionCategoryTitle
+{
+    font-size: 2rem;
+    padding-top: 2vh;
+    padding-bottom: 2vh;
+    text-align: center;
+    background-color: #28546C;
+    width: 100%;
+    height: 5vh;
+    margin-top: 1vh;
+}
+.attractionElements img
+{
+    width: 100%;
+    height: 30vh;
+}
+.attractionElement
+{
+    margin-bottom: 1vh;
+    position: relative;
+    width: 100%;
+}
+.attractionDarkness
+{
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    position: absolute;
+    height: 100%;
+    /*
+    height: 30vh;
+    */
+    color: #FFF;
+    font-weight: 700;
+    padding: 5vh 10vw;
+    background-color: rgba(0, 0, 0, 0.8);
+    overflow: auto;
+    display: none;
+}
+.attractionContent
+{
+    bottom: 0;
+    top: 80%;
+    left: 0;
+    padding-left: 10%;
+    width: 90%;
+    color: #FFF;
+    position: absolute;
+    font-size: 1.5rem;
+    font-weight: 900;
+    background-color: rgba(0, 0, 0, 0.7);
+}
+#divHistory
+{
+    display: none;
+}
