@@ -1,0 +1,82 @@
+SHUY-Elite
+
+ToDo:
+- Strona Główna:
+    - poprawa pogody w wersji desktopowej
+- Atrakcje - zdjęcia nie rozciągane a spiltowane
+
+ToDo:
+- Strona Główna:
+    - poprawa pogody w wersji desktopowej
+- Atrakcje - zdjęcia nie rozciągane a spiltowane
+
+
+
+Google API KEY:
+AIzaSyCB0m-BJuquS3EDHPculuy7f4y4w8VmyAY
+
+
+Główny Dysk Googlowy
+https://drive.google.com/drive/folders/1-WISh3IV2zdy-4WodQnJh-Yg7IEVIg9Q
+
+
+
+
+
+httpd-vhost.conf
+SSlEngine on
+SSLCertificateFile "conf/ssl.crt/server.crt"
+SSLCertificateKeyFile "conf/ssl.key/server.key"
+
+
+
+atrakcje turystyczne:
+-Plac Ofiar Stalinizmu /historia
+-Pomnik Adama Mickiewicza /historia
+-Efes Kebab /rozrywka, historia
+-Biblioteka Oddział dla dzieci i młodzieży /dzieci
+-Robotico.pl /dzieci
+-PWSZ /młodzież
+-kino Marzenie /młodzież,rozrywka
+
+//Twitter
+<a class="twitter-timeline" data-lang="pl" data-link-color="#AA9239" href="https://twitter.com/Tarnow_TCI?ref_src=twsrc%5Etfw">Tarnów</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+Plan prezentacji:
+4 os.
+
+Mateusz:
+- Atrakcje
+    - treść
+    - funkcje
+    - przeznaczenie
+- Praca
+
+Adrian:
+- Pogoda, Data, itp.
+    - Zalety:
+=>- Logowanie
+    * Łatwe
+    * Zawsze Pod ręką,
+    * Nie trzeba googlować
+    * etc.rządzanie z poziomu administratora
+Szymon:
+    - Galeria
+
+    <i class="fas fa-comment-dots"></i>
+=>    - eUrząd
+    - QUIZ
+    - Stopka -> design
+Kacper:
+=>    - Zawiadomienie
+    - Transport publiczny
+=>    - Informacje drogowe
+
+Ktoś:
+=>    - Wydarzenia
+    - Strultura:
+        - APK
+        - Strona internetowa:
+            - mobilna
+            - desktopowa
